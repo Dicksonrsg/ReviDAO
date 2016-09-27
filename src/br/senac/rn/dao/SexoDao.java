@@ -37,4 +37,7 @@ public class SexoDao {
     
     }
     
+    public Sexo selectByFilter(String filter){
+    
+    }
 }
